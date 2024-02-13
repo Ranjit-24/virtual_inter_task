@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding-bottom: 20px;
+    margin:5px 5px 20px 5px;
+}
+main{
+    text-align: center;
+    background-color: rgba(255, 249, 86, 0.942);
+    padding: 50px;
+    box-shadow: 15px  15px black;
+    border-radius: 20px; 
+}
+#button1{
+    padding-bottom: 20px;
+}
+#button2{
+    color:white;
+    margin: 15px 0; 
+    padding: 30px 50px;
+
+}
